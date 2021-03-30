@@ -1,1 +1,2 @@
-# mango-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
